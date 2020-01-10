@@ -11,9 +11,10 @@ int main() {
 	cout << pound << " pound = " << kilogram << " kg";
 }*/
 
-
+//
 	int s;
 	cout << "please enter";
 	cin >> s;
 	cout << "the area is" << (((3 * sqrt(3)) / (2)) * (pow(s, 2.0)));
 }
+
